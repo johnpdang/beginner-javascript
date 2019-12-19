@@ -9,17 +9,24 @@ people.forEach((person, index) => {
 });
 
 // Console Methods
-console.log();
-console.error();
-console.warn();
-console.table();
-console.count();
+// console.log();
+// console.error();
+// console.warn();
+// console.table();
+// console.count();
+// console.group();
+// console.groupCollapsed();
+// console.groupEnd();
 
-// Callstack
+// Callstack, Stack trace
 
 // Grabbing Elements
+// $0; // last element clicked
+// $; // shorthand selector, first one
+// $$; // find all tags
 
 // Breakpoints
+// debugger; // pauses js, adds breakpoints
 
 // Scope
 
